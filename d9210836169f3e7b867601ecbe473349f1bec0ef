@@ -1,0 +1,7 @@
+Code-Review+2: wes hayutin <weshayutin@gmail.com>
+Verified+1: wes hayutin <weshayutin@gmail.com>
+Submitted-by: wes hayutin <weshayutin@gmail.com>
+Submitted-at: Mon, 02 May 2016 17:07:39 -0400
+Reviewed-on: https://review.gerrithub.io/275023
+Project: redhat-openstack/ansible-role-tripleo-cleanup-nfo
+Branch: refs/heads/master
