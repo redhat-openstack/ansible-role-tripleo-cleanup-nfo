@@ -1,0 +1,8 @@
+Code-Review+1: Matt Young <myoung@redhat.com>
+Code-Review+2: wes hayutin <weshayutin@gmail.com>
+Verified+1: wes hayutin <weshayutin@gmail.com>
+Submitted-by: wes hayutin <weshayutin@gmail.com>
+Submitted-at: Fri, 01 Jul 2016 13:16:59 -0400
+Reviewed-on: https://review.gerrithub.io/282607
+Project: redhat-openstack/ansible-role-tripleo-cleanup-nfo
+Branch: refs/heads/master
